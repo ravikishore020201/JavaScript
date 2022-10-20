@@ -55,4 +55,3 @@ class LinkedList {
     }
 }
 let L = new LinkedList()
-console.log(Function.__proto__.__proto__.__proto__)
